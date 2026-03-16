@@ -1,1 +1,1 @@
-# merit-databricks-training
+# Merit-databricks-training
